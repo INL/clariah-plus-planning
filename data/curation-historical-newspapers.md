@@ -7,9 +7,9 @@
 * **Work Package**: WP6
 * **Research Coordinators:**:  Nicoline van der Sijs
 * **Coordinators for CLARIAH:** Katrien Depuydt, Jesse de Does
-* **Participating Institutes:** INT
+* **Participating Institutes:** INT, HuC
 * **End-users**: Historical linguists, other humanities researchers
-* **Developers**: INT team consisting of Mathieu Fannee, Henk van der Pol, Katrien Depuydt, Jesse de Does
+* **Developers**: INT team consisting of Mathieu Fannee, Henk van der Pol, Katrien Depuydt, Jesse de Does; HuC team led by Hennie Brugman
 * **Interest Groups**: Text
 * **Task IDs**:  Wp3/Wp6 Workflow for Digitization and Conversion
 
