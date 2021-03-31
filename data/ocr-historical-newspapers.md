@@ -1,4 +1,4 @@
-# Digitization and curation workflow for historical newspapers
+# Digitization workflow for historical newspapers (WP6 use case 2)
 
 ## Metadata
 
@@ -9,7 +9,7 @@
 * **Coordinators for CLARIAH:** 
 * **Participating Institutes:** HuC, INT, KB, ...
 * **End-users**: 
-* **Developers**: HuC team consisting of ..; INT team consisting of ...
+* **Developers**: HuC team consisting of Rutger van Koert, Hennie Brugman, Gijsjan Brouwer, ...; INT team consisting of Tim Brouwer, Ruud de Jong, Jesse de Does, Katrien Depuydt
 * **Interest Groups**: Text
 * **Task IDs**:  Wp3/Wp6 Workflow for Digitization and Conversion
 
@@ -49,7 +49,7 @@ Develop a suitable workflow for Wp6 use case 2: digitization of historical newsp
 ### How to evaluate this?
 
 * By OCR accuracy of text recognition tools
-* By efficiency in terms of labor of the envisaged workflow
+* By efficiency, in terms of labour, of the envisaged workflow
 * By usability of resulting corpus for research
 
 ## References

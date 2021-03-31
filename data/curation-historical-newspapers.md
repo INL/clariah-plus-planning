@@ -1,4 +1,4 @@
-# Curation of transcribed historical newspaper corpus
+# Curation of transcribed historical newspaper corpus (Wp6 Use case 2)
 
 ## Metadata
 
