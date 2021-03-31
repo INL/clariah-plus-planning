@@ -5,8 +5,8 @@
 * **Status:**  Proposed
 * **Type:** Specific
 * **Work Package**: WP3/6
-* **Research Coordinators:** Katrien Depuydt
-* **Coordinators for CLARIAH:**  (who is coordinating this use case for CLARIAH? If decided)
+* **Research Coordinators:** Katrien Depuydt on behalf of end user group
+* **Coordinators for CLARIAH:**  Jesse de Does
 * **Participating Institutes:** (what institutes are participating in handling this use case?)
 * **End-users**: User group for historical enrichment (Prof. dr. L.C.J. Barbiers, prof. dr. K.H. van Dalen-Oskam, prof. dr. J.M. van Koppen, dr. M. Rem en prof. dr. N. van der Sijs,  dr. G. Bouma, prof. dr. A. Breitbarth, dr. E. Coussé, prof. dr. F. Van Eynde, prof. dr. A.M.S. van Kemenade, dr. M. Kestemont, drs. M. van der Meulen, dr. G.J. Postma, prof. dr. P.Th. van Reenen, dr. G.J. Rutten, T. Struik MA, dr. F. Van de Velde, M. de Vos MPhil, prof. dr. R. Vosters en dr. C. De Wulf.); any historical linguist interested in Dutch
 * **Developers**: INT

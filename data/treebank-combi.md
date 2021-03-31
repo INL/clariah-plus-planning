@@ -37,10 +37,10 @@ e.g.
 Query something like `v:[lemma="praten"] → (n:[pos="NOUN"] → p:[pos="ADP"])`
 
 Result presentation:
-![Highlight of slots in corcondance](slots.png)
+![Highlight of slots in corcondance](https://github.com/INL/clariah-plus-planning/blob/master/data/slots.png)
 
 Grouping:
-![Grouping by slots (captures)](grouped.png)
+![Grouping by slots (captures)](https://github.com/INL/clariah-plus-planning/blob/master/data/grouped.png)
 
 #### Data
 

@@ -6,7 +6,7 @@
 * **Type:** Specific
 * **Work Package**: WP6
 * **Research Coordinators:** Lodewijk Petram
-* **Coordinators for CLARIAH:** Katrien Depuydt
+* **Coordinators for CLARIAH:** Katrien Depuydt, Jesse de Does
 * **Participating Institutes:** HuC, VU, KB, INT, DANS
 * **End-users**: Linguists, historians
 * **Developers**: Sophie Arnoult, Dirk Roorda, Jesse de Does, ....
@@ -30,8 +30,8 @@ How can CLARIAH text processing tools contribute to historical research question
 
 ### What problem is hindering the research?
 
-Suitable tools were lacking
-* For named entity recognition
+Suitable tools were lacking for historical text processing, a.o.
+* For named entity recognition and resolution
 * Basic linguistic annotation (lemma, PoS)
 
 ### What is needed to do the research?
@@ -52,6 +52,8 @@ Among others:
 Currently deployed:
 * Conversion pipeline Abbyy XML --> TEI --> NAF/XMI (Sophie Arnoult and Jesse de Does)
 * Named entity recognition (developed by Sophie Arnoult)
+* Text fabric analysis tools
+* Others to be determined by lead researchers
 
 ### What software and services are involved?
 
