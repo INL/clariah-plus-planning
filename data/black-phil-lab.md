@@ -66,11 +66,24 @@ The collected works of a number of specific philosophers: Quine and Russell (Eng
 
 ### How to evaluate this?
 
-(How do we evaluate the solution to the problem?)
+Evaluation of enhancements to AutoSearch will be initially conducted iteratively by members of Betti’s team, experts in the thought of Wolff and 18th century philosophy, Kant, Bolzano, Russell, and Quine. It will be guided by a cluster of questions to be designed iteratively, starting with e.g. the following:
+
+* To what extent do the enhancements to AutoSearch support your data-driven research in the history of ideas? 
+
+In particular:
+
+* To what extent does the enhanced AutoSearch enable you to construct a concept-based ground truth in the sense of Betti et al. (2020) for the corpus you are studying?
+* How intuitive and helpful is it to use the expert CQL tab? Or do the Advanced search capabilities cover your advanced search needs?
+* How often do you resort to the HitPaRank module for retrieving a ranked set of paragraphs containing the same key words? (every time - sometimes - never)
+* How would you rank the option of checking the images of the original text you are analysing (absolutely key - useful - moderately useful - not useful at all)
+* Do you see yourself publishing a paper in a top-ranked venue in your field relying substantially on AutoSearch’s variety of semantic searches? If your answer is ‘No’, can you explain why?
 
 ## References
 
 References to related resources and publications and especially links to related use-cases:
 
 * [CLARIAH](https://clariah.nl)
+
+* Expert Concept-Modeling Ground Truth Construction for Word Embeddings Evaluation in Concept-Focused Domains. Betti, A., Reynaert, M., Ossenkoppele, T., Oortwijn, Y., Salway, A., & Bloem, J. In Proceedings of the 28th International Conference on Computational Linguistics, pages 6690–6702, Barcelona, Spain (Online), December, 2020. International Committee on Computational Linguistics.
+
 
