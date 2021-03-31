@@ -1,15 +1,15 @@
-# Curation of already transcribed historical newspaper corpus
+# Curation of transcribed historical newspaper corpus
 
 ## Metadata
 
 * **Status:**  Proposed
-* **Type:** Specific/Generic (is this a specific use-case, with identifiable end-users, or a more generic use case?)
-* **Work Package**: WPx
+* **Type:** Specific
+* **Work Package**: WP6
 * **Research Coordinators:**:  Nicoline van der Sijs
 * **Coordinators for CLARIAH:** Katrien Depuydt, Jesse de Does
 * **Participating Institutes:** INT
 * **End-users**: Historical linguists, other humanities researchers
-* **Developers**: INT team consisting of Mathieu Fannee, Henk van der Pol, Katrien Depuydt
+* **Developers**: INT team consisting of Mathieu Fannee, Henk van der Pol, Katrien Depuydt, Jesse de Does
 * **Interest Groups**: Text
 * **Task IDs**:  Wp3/Wp6 Workflow for Digitization and Conversion
 
@@ -35,7 +35,8 @@ Develop a suitable workflow for Wp6 use case 2: digitization of historical newsp
 #### Tools
 
 * Lex'it
-* Conversion database -> XML
+* Conversion database -> suitable XML format
+* Historical linguistic annotation tools
 * Blacklab
 
 ### What software and services are involved?

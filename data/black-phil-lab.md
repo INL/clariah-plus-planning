@@ -53,7 +53,7 @@ The collected works of a number of specific philosophers: Quine and Russell (Eng
 
 * Autosearch
 * Approaches to semantic similarity (BERT-based, classical IR approaches, novel approaches, e.g. KOOPMAN, Rob and WANG, Shenghui (2019) An innovative approach to scalable semantic embedding. Paper presented at: IFLA WLIC 2019 - Athens, Greece - Libraries: dialogue for change in Session S15 - Big Data. In: Data intelligence in libraries: the actual and artificial perspectives, 22-23 August 2019, Frankfurt, Germany. URL: http://library.ifla.org/2747/1/s15-2019-koopman-en.pd
-* Enhanced 
+* Enhanced conversion tools in the FoLiA ecosystem
 * A multilingual UD pipeline (spacy, ....) enhanced with FoLiA input/output
 
 (if known, describe what tools or functionalities you need to work with the data and do the research. Take the different stadia of the research into account, such as exploration phase, distant reading, close reading, annotating data, publishing, etc. Be as specific as possible)
