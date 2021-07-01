@@ -56,12 +56,12 @@ enhanced; 3PM functional design and testing
 
 **Participants + PMs: INT: 8**
 
-**Working plan; deliverables **
+**Working plan; deliverables**
 
-  ---------------- -------- ------------- ---------- -----------------------------------------------------------------------------------
-  T083 Treebanks   T083M1   Milestone     Document   Requirements and technical design
-  T083 Treebanks   T083D1   Deliverable   Software   Scalable treebank search integrated with token-based search: backend and frontend
-  T083 Treebanks   T083D2   Deliverable   Document   Scalable treebank search documentation
-  ---------------- -------- ------------- ---------- -----------------------------------------------------------------------------------
+    ---------------- -------- ------------- ---------- -----------------------------------------------------------------------------------
+    T083 Treebanks   T083M1   Milestone     Document   Requirements and technical design
+    T083 Treebanks   T083D1   Deliverable   Software   Scalable treebank search integrated with token-based search: backend and frontend
+    T083 Treebanks   T083D2   Deliverable   Document   Scalable treebank search documentation
+    ---------------- -------- ------------- ---------- -----------------------------------------------------------------------------------
 
 
