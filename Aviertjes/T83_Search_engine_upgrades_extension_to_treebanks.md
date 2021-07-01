@@ -25,8 +25,8 @@ BlackLab search engine.
 *Requirements*
 
 -   Performance. Performance at least for simple queries comparable to
-    > CQL (e.g. a query for an adjective modifying a noun should not be
-    > much slower than \[pos=”adj”\]\[lemma=”schaap”\]
+    > CQL (e.g. query for an adjective modifying a noun should not be
+    > much slower than \[pos=”adj” \[lemma=”schaap”\]
 
 -   Scalable, distributable, federable
 
@@ -45,11 +45,10 @@ BlackLab search engine.
     > metadata, distributed deployment, user annotation, statistics and
     > visualization, etc., need not be duplicated
 
-**Why important for CLARIAH (scientific impact): **
-
-Current corpus exploitation infrastructure for treebanks and token-based
-corpora is fragmented and not always scalable; it is difficult to
-integrate analytics from treebanks and token-based corpora.
+**Why important for CLARIAH (scientific impact):** Current corpus
+exploitation infrastructure for treebanks and token-based corpora is
+fragmented and not always scalable; it is difficult to integrate
+analytics from treebanks and token-based corpora.
 
 On the one hand, analytics, query management, analytics and
 visualization in treebank applications lag behind the facilities offered
@@ -88,7 +87,3 @@ Milestone: year 2: backend implementation
 
 Deliverable: year 3: autosearch, blacklab and blacklab server versions
 with handling of treebanks
-
-Voorbeeldje dependency search in blacklab:
-
-[*https://portal.clarin.inl.nl/atocorp/j.de.does@umail.leidenuniv.nl:testConnlU/search/hits?number=20&first=0&patt=%28a%3A%5Bpos%3D%22VERB%22%5D%5B%5D%7B0%2C4%7D+b%3A%5Bpos%3D%22NOUN%22+%26+deprel%3D%22obj%22%5D+%0A%7C+++b%3A%5Bpos%3D%22NOUN%22+%26+deprel%3D%22obj%22%5D+++%5B%5D%7B0%2C4%7D++a%3A%5Bpos%3D%22VERB%22%5D%29+%3A%3A+a.id%3Db.head*](https://portal.clarin.inl.nl/atocorp/j.de.does@umail.leidenuniv.nl:testConnlU/search/hits?number=20&first=0&patt=(a%3A%5Bpos%3D"VERB"%5D%5B%5D{0%2C4}+b%3A%5Bpos%3D"NOUN"+%26+deprel%3D"obj"%5D+%0A|+++b%3A%5Bpos%3D"NOUN"+%26+deprel%3D"obj"%5D+++%5B%5D{0%2C4}++a%3A%5Bpos%3D"VERB"%5D)+%3A%3A+a.id%3Db.head)
