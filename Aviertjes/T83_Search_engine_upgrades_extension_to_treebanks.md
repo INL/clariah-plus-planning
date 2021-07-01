@@ -11,7 +11,8 @@ less scalable Xpath/Xquery-based engines.
 
 **What exists:** Token level annotation search for large corpora (Corpus
 workbench; Nosketch engine, Blacklab); separate treebank query engines
-(PML-TQ, Gretel, ...)\
+(PML-TQ, Gretel, ...)
+
 **What must be adapted / extended / created anew:** Because of richer
 and more intuitive searching for syntactic phenomena, it is surprising
 that treebanks have not superseded token-based corpora as the basic
@@ -21,12 +22,11 @@ In this task, we develop a scalable integrated treebank search and
 exploitation infrastructure for large corpora, integrated with the
 BlackLab search engine.
 
-Requirements
+*Requirements*
 
 -   Performance. Performance at least for simple queries comparable to
-    > CQL (e.g. /node\[@cat="np" and node\[@rel="mod" and @pt="adj"\]
-    > and node\[@rel="hd" and @pt="n" and @lemma="schaap"\]\]) should
-    > not be much slower than \[pos=”adj”\]\[lemma=”schaap”\]
+    > CQL (e.g. a query for an adjective modifying a noun should not be
+    > much slower than \[pos=”adj”\]\[lemma=”schaap”\]
 
 -   Scalable, distributable, federable
 
@@ -34,7 +34,7 @@ Requirements
 
 -   Enable combination of CQL constructions and treebank query
 
-Benefits:
+*Benefits:*
 
 -   Leverage efficiency and flexibility of the lucene Span query
     > mechanism and lucene/solr solutions for scalability and
