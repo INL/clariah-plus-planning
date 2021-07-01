@@ -1,5 +1,5 @@
-Topic: Search Engine Upgrades: Parallel Corpora
-===============================================
+**T124** Search Engine Upgrades: Parallel Corpora
+=================================================
 
 **IDs in Google Sheets: T124**
 
@@ -76,30 +76,17 @@ research; language learners
 
 **Lead + PMs:** INT
 
-**Participants + PMs:** INT, **Working plan; deliverables**
+**Participants + PMs:** INT
 
-Total 8 PM
+**Deliverables:**
 
-Year 1: analysis of requirements and design of technical architecture;
-UI requirements
+-   T124 Parallel corpora D124M1 Milestone Document Requirements and
+    technical design
 
-\[total 2 PM; developer (Jan), CL (Carole, Vincent), Linguists\]
+-   T124 Parallel corpora D124D1 Deliverable Software Parallel corpus
+    search engine: backend and frontend
 
-Year 2:implementation
+-   T124 Parallel corpora D124D2 Deliverable Document Parallel corpus
+    search engine: documentation
 
-\[3 PM backend developer\]
 
-\[3 PM frontend developer\]
-
-Milestone: december year 1: document describing requirements and
-technical design
-
-Milestone: december year 2: backend implementation
-
-Deliverable: december year 3: autosearch, blacklab and blacklab server
-versions with handling of parallel corpora
-
-![](media/image1.png){width="6.270833333333333in" height="5.125in"}
-
-![](media/image2.png){width="6.270833333333333in"
-height="3.236111111111111in"}

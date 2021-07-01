@@ -1,7 +1,7 @@
-Topic: Search engine upgrades: extension to treebanks
-=====================================================
+T83 Search engine upgrades: extension to treebanks
+==================================================
 
-**IDs in Google Sheets:** T83
+**ID in Google Sheets:** T83
 
 **Author:** INT / Jesse de Does a.o.
 
