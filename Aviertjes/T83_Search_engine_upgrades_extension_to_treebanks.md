@@ -22,29 +22,6 @@ In this task, we develop a scalable integrated treebank search and
 exploitation infrastructure for large corpora, integrated with the
 BlackLab search engine.
 
-*Requirements*
-
--   Performance. Performance at least for simple queries comparable to
-    > CQL (e.g. query for an adjective modifying a noun should not be
-    > much slower than \[pos=”adj” \[lemma=”schaap”\]
-
--   Scalable, distributable, federable
-
--   Support both dependency and phrase structure
-
--   Enable combination of CQL constructions and treebank query
-
-*Benefits:*
-
--   Leverage efficiency and flexibility of the lucene Span query
-    > mechanism and lucene/solr solutions for scalability and
-    > distributed processing to achieve goals
-
--   One infrastructure to publish corpora instead of different copies
-    > of e.g. opensonar in whitelab and gretel3, so management of
-    > metadata, distributed deployment, user annotation, statistics and
-    > visualization, etc., need not be duplicated
-
 **Why important for CLARIAH (scientific impact):** Current corpus
 exploitation infrastructure for treebanks and token-based corpora is
 fragmented and not always scalable; it is difficult to integrate
@@ -65,7 +42,7 @@ learners
 
 **Actual use (quantify!):** Since the envisaged facility will have all
 capacities of token-based and treebank query and more, a satisfactory
-implementation will attract the attention from both user groups
+implementation will attract the attention from both user groups.
 
 **Social Impact** **(concrete examples):** Facilitate linguistic
 research based on corpus data by creating a single scalable retrieval
@@ -81,9 +58,10 @@ enhanced; 3PM functional design and testing
 
 **Working plan; deliverables **
 
-Milestone: year 1: document describing requirements and technical design
+  ---------------- -------- ------------- ---------- -----------------------------------------------------------------------------------
+  T083 Treebanks   T083M1   Milestone     Document   Requirements and technical design
+  T083 Treebanks   T083D1   Deliverable   Software   Scalable treebank search integrated with token-based search: backend and frontend
+  T083 Treebanks   T083D2   Deliverable   Document   Scalable treebank search documentation
+  ---------------- -------- ------------- ---------- -----------------------------------------------------------------------------------
 
-Milestone: year 2: backend implementation
 
-Deliverable: year 3: autosearch, blacklab and blacklab server versions
-with handling of treebanks
