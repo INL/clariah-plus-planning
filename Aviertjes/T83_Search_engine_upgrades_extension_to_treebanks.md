@@ -56,7 +56,7 @@ enhanced; 3PM functional design and testing
 
 **Participants + PMs: INT: 8**
 
-**Working plan; deliverables**
+**Working plan; deliverables **
 
   ---------------- -------- ------------- ---------- -----------------------------------------------------------------------------------
   T083 Treebanks   T083M1   Milestone     Document   Requirements and technical design
