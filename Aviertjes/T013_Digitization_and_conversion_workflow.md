@@ -12,25 +12,25 @@ T13: Digitization and conversion workflow (joint work with Wp6 use cases; revise
 -   PICCL web service workflow for digitization and conversion
 
 -   various conversion tools (Piereling, OpenConvert; Nederlab
-    > conversions; ….)
+     conversions; ….)
 
 -   several CLARIAH partners with expertise on OCR, post-correction and
-    > conversion
+     conversion
 
 *in general:*
 
 -   General purpose OCR systems (Finereader, tesseract)
 
 -   Web services/applications offering document management and
-    > processing (Transkribus, Pero OCR)
+     processing (Transkribus, Pero OCR)
 
 -   A fascinating but confusing array of modern deep learning-based
-    > tools for layout analysis and text recognition, image enhancement,
-    > ocr evaluation, ocr postcorrection (ticcl, …), ground truth
-    > production …
+     tools for layout analysis and text recognition, image enhancement,
+     ocr evaluation, ocr postcorrection (ticcl, …), ground truth
+     production …
 
 -   Cf. also
-    > [*https://www.digitisation.eu/tools-resources/tools-for-text-digitisation/*](https://www.digitisation.eu/tools-resources/tools-for-text-digitisation/)
+     [*https://www.digitisation.eu/tools-resources/tools-for-text-digitisation/*](https://www.digitisation.eu/tools-resources/tools-for-text-digitisation/)
 
 **What must be adapted / extended / created anew:** Infrastructure for
 digitization to support humanities researchers wanting to digitize or
@@ -42,7 +42,7 @@ Researchers should be supported to
 -   Choose an optimal combination of tools for their data, which implies
 
     -   Evaluation platform enabling researchers to quickly assess the
-        > potential of tools for their data
+         potential of tools for their data
 
     -   Ground truth creation
 
@@ -51,7 +51,7 @@ Researchers should be supported to
     -   A web service based architecture
 
     -   Offline availability of a wide range of tools for processing
-        > large volumes of data
+         large volumes of data
 
 Researchers should be able to acquire information:
 
@@ -155,11 +155,11 @@ the work of the other partners also needs to be reconsidered.*
 
 The original project plan states:
 
-> INT and KNAW HuC Meertens Institute and HuC Digital Humanities Lab,
-> Radboud University Nijmegen (RUN, CLST), Tilburg University (TiU). HuC
-> in tandem with RUN will concentrate on backend (TICCL, PICCL,
-> converters, software distribution in a.o. LaMachine) and INT
-> willconcentrate on frontend, converters, information and hosting.
+ INT and KNAW HuC Meertens Institute and HuC Digital Humanities Lab,
+ Radboud University Nijmegen (RUN, CLST), Tilburg University (TiU). HuC
+ in tandem with RUN will concentrate on backend (TICCL, PICCL,
+ converters, software distribution in a.o. LaMachine) and INT
+ willconcentrate on frontend, converters, information and hosting.
 
 **Targeted/Actual users:** Digital humanities researchers depending on
 corpus material in an appropriate format for their research\
