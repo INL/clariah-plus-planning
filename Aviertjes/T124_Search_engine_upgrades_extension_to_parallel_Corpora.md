@@ -14,17 +14,17 @@ for parallel corpora based on BlackLab search engine
 
 *Functionality*
 
-> 1\. retrieve and display matching “part” from other corpus for any
-> single-corpus query
->
-> 2\. Alignments on different levels (document, paragraph, sentence, word)
->
-> 3\. Possible one to many word alignment (appeltaart&gt; apple pie)
->
-> 4\. Combined query, compare functionality Sketch engine for lexical query
-> and
-> [*http://www.ccl.kuleuven.be/\~liesbeth/talks/LREC2016-Poly-GrETEL.pdf*](http://www.ccl.kuleuven.be/~liesbeth/talks/LREC2016-Poly-GrETEL.pdf)
-> for syntactic query
+ 1\. retrieve and display matching “part” from other corpus for any
+ single-corpus query
+
+ 2\. Alignments on different levels (document, paragraph, sentence, word)
+
+ 3\. Possible one to many word alignment (appeltaart&gt; apple pie)
+
+ 4\. Combined query, compare functionality Sketch engine for lexical query
+ and
+ [*http://www.ccl.kuleuven.be/\~liesbeth/talks/LREC2016-Poly-GrETEL.pdf*](http://www.ccl.kuleuven.be/~liesbeth/talks/LREC2016-Poly-GrETEL.pdf)
+ for syntactic query
 
 *Literature e.g:*
 
@@ -39,16 +39,16 @@ Flanders and many others; Leiden bilingual corpora; EDGeS bible corpus
 
 Parallel corpora are useful for a range of users:
 
-> 1\. language learners, who want to get translation suggestions for a
-> certain source language word or phrase.
->
-> 2\. translators, who similar to language learners want to translation
-> suggestions for a word or phrase, in particular for genre and
-> domain-specific translation variants.
->
-> 3\. linguists, who would like to formulate precise (contrastive) queries
-> with reference to linguistic annotations and alignments. E.g. zero
-> article use in English compared to Dutch/German.
+ 1\. language learners, who want to get translation suggestions for a
+ certain source language word or phrase.
+
+ 2\. translators, who similar to language learners want to translation
+ suggestions for a word or phrase, in particular for genre and
+ domain-specific translation variants.
+
+ 3\. linguists, who would like to formulate precise (contrastive) queries
+ with reference to linguistic annotations and alignments. E.g. zero
+ article use in English compared to Dutch/German.
 
 For the last group a powerful query system is needed. The system should
 allow queries with conditions over both sides of a parallel text plus

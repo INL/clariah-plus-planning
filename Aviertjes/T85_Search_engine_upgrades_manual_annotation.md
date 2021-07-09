@@ -15,13 +15,13 @@ results with codes to further refine/classify the search results (cf.
 the Lancaster BNC interface).
 
 -   Users should be able to add annotations to search results and to
-    > share these annotations with other users.
+     share these annotations with other users.
 
 -   Deposit (manual) annotation results back into an archive (closing
-    > the data management life cycle)
+     the data management life cycle)
 
 -   Annotations should be searchable in the corpus (depends on
-    > design approach)
+     design approach)
 
 -   Should also benefit treebank search
 

@@ -20,9 +20,9 @@ BlackLab search engine.
 Requirements
 
 -   Performance. Performance at least for simple queries comparable to
-    > CQL (e.g. /node\[@cat="np" and node\[@rel="mod" and @pt="adj"\]
-    > and node\[@rel="hd" and @pt="n" and @lemma="schaap"\]\]) should
-    > not be much slower than \[pos=”adj”\]\[lemma=”schaap”\]
+     CQL (e.g. /node\[@cat="np" and node\[@rel="mod" and @pt="adj"\]
+     and node\[@rel="hd" and @pt="n" and @lemma="schaap"\]\]) should
+     not be much slower than \[pos=”adj”\]\[lemma=”schaap”\]
 
 -   Scalable, distributable, federable
 
@@ -33,13 +33,13 @@ Requirements
 Benefits:
 
 -   Leverage efficiency and flexibility of the lucene Span query
-    > mechanism and lucene/solr solutions for scalability and
-    > distributed processing to achieve goals
+     mechanism and lucene/solr solutions for scalability and
+     distributed processing to achieve goals
 
 -   One infrastructure to publish corpora instead of different copies
-    > of e.g. opensonar in whitelab and gretel3, so management of
-    > metadata, distributed deployment, user annotation, statistics and
-    > visualization, etc, etc need not be duplicated
+     of e.g. opensonar in whitelab and gretel3, so management of
+     metadata, distributed deployment, user annotation, statistics and
+     visualization, etc, etc need not be duplicated
 
 **Why important for CLARIAH (scientific impact): **
 
