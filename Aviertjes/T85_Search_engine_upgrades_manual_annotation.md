@@ -1,9 +1,9 @@
-Topic: search engine upgrades: manual annotation 
-=================================================
+T85: search engine upgrades: manual annotation 
+===============================================
 
 **IDs in Google Sheets:** T85
 
-**Author:** INT
+**Author:** INT/Jesse de Does
 
 **What exists:** static corpora and search engines; annotation tools
 
@@ -27,12 +27,9 @@ the Lancaster BNC interface).
 
 There are two basic scenarios: either there is a strong integration with
 the search engine, which would simplify support of making annotations
-searchable; or this is a module that can be combined with any type of
-search engine.
-
+searchable; or one implements a module that can be combined with any
+type of search engine.\
 Example use cases:
-
--   Bookmarking function
 
 -   Annotate word senses
 
@@ -40,7 +37,7 @@ Example use cases:
 
 -   Add fine-grained syntactic information
 
-Cf:
+Cf also:
 
 -   bnc web annotated queries (screenshots below)
 
@@ -51,7 +48,7 @@ research with corpora.
 
 **Targeted/Actual users:** corpus users
 
-**Actual use (quantify!):** \#\#
+**Actual use (quantify!):**
 
 **Social Impact** **(concrete examples):** Facilitate linguistic
 research; publish data on which research is based; foster collaborative
@@ -59,48 +56,21 @@ corpus research
 
 **Estimate in PMs (try to justify):** 6PM
 
-**Lead + PMs:** XX:
+**Lead + PMs:**
 
-**Participants + PMs:** INT/UU
+**Participants + PMs: INT**
 
-**Working plan; deliverables**
+  **Taak**                 **Type personeel**         **Available**   **2019**   **2020**   **2021**   **2022**   **2023**   **Summed**   **Task total**
+  ------------------------ -------------------------- --------------- ---------- ---------- ---------- ---------- ---------- ------------ ----------------
+  T085 Manual Annotation   Software developer(s)      5               1          2          2                                **5**        **6**
+  T085 Manual annotation   (Computational) linguist   1               1                                                      **1**        
 
-In year 1, requirements will be analyzed and we will draft a technical
-design document. The main challenge is to devise a way to support
-different search engine platforms with minimal adaptations to the
-underlying corpus retrieval systems.
+**Deliverables:**
 
-in year 2, backend functionality will be developed
+  Task                     ID       D or M        Type       Description
+  ------------------------ -------- ------------- ---------- --------------------------------------------------------------------------------------------------------------------------------
+  T085 Manual Annotation   T085M1   Milestone     Document   Document defining the requirements for the manual annotation of corpus search results, based on input from a set of use cases.
+                           T085D2   Deliverable   Software   Implementation manual search result annotation, based on BlackLab and the BlackLab corpus frontend
+                           T005D2   Deliverable   Document   Document describing T085D2 and its application to use cases.
 
-It is not unlikely that the annotation environment will be based on the
-Lex’it platform that INT uses internally for data production.
 
-Totaal 6PM
-
-Year 1: analysis of requirements and design of technical architecture;
-UI requirements
-
-\[total 2 PM; developer (Jan), CL (Carole, Vincent), Linguists\]
-
-Year 2: implementation: blacklab support for search of annotations
-
-\[2 PM backend developer\]
-
-\[2 PM frontend developer\]
-
-Milestone: year 1: document describing requirements and technical design
-
-Mlinestone: year 2: backend implementation
-
-Deliverable: year 3: autosearch, blacklab and blacklab server versions
-with handling of manual annotation
-
-![](media/image3.png){width="2.1302088801399823in"
-height="1.8799376640419947in"}![](media/image2.png){width="3.4399606299212597in"
-height="2.588542213473316in"}
-
-![](media/image1.png){width="5.921875546806649in"
-height="1.53457239720035in"}
-
-![](media/image4.png){width="6.270833333333333in"
-height="3.0416666666666665in"}
