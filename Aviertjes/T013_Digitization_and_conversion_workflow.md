@@ -265,8 +265,8 @@
 <td align="left">4</td>
 <td align="left"></td>
 <td align="left">1</td>
-<td align="left">4</td>
-<td align="left">2</td>
+<td align="left">3</td>
+<td align="left">3</td>
 <td align="left"></td>
 <td align="left"><strong>6</strong></td>
 </tr>
